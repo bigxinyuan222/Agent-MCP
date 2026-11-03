@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "browser": {
+      "command": "@self",
+      "args": ["--mcp-browser-server"]
+    }
+  }
+}
